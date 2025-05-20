@@ -21,7 +21,7 @@ Installation
 
 Clonez le dépôt:
 
- git clone https://github.com/votreusername/facebook-auto-poster.git
+ git clone https://github.com/Waribiz/waribiz_bot.git
 cd facebook-auto-poster
 
 Créez et activez un environnement virtuel:
@@ -203,3 +203,33 @@ Contact
 Pour toute question ou assistance, veuillez créer une issue dans le dépôt GitHub.
 
 Note: Ce bot est conçu pour la promotion d'un bot Telegram de pronostics football. Adaptez le contenu généré à vos propres besoins marketing en modifiant les instructions dans la fonction generate_ai_message().
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# Initialiser le dépôt
+git init
+
+# Ajouter tous les fichiers
+git add .
+
+# Commit avec message
+git commit -m "Initial commit"
+
+# Lier à GitHub
+git remote add origin https://github.com/Waribiz/waribiz_bot.git
+
+# Envoyer le code
+git push -u origin main
